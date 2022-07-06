@@ -76,6 +76,9 @@ button{
    margin:auto;
    margin-top:60px;
 }
+#mission-para{
+    margin:0px 50px;
+}
 .item{
     
     text-align:left;
@@ -124,8 +127,8 @@ button{
     border:none;
     border-radius:5px 0px 0px 5px;
     background-color:gray;
-    height:28px;
-    margin-right:0px;
+    height:29px;
+    margin-right:-4px;
     width:60%;
 }
 .form button{
