@@ -43,9 +43,9 @@ button{
     margin: 20px auto;
 }
 .font{
-    background-image:url(images/caption.jpg);
+    background-image:url(images/food.jpg);
     background-size: cover;
-    height:500px;
+    height:700px;
 }
 .font-caption{
     text-align:center;
