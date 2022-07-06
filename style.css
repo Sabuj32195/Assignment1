@@ -43,9 +43,9 @@ button{
     margin: 20px auto;
 }
 .font{
-    background-image:url(images/donation4.jpg);
+    background-image:url(images/caption.jpg);
     background-size: cover;
-    height:600px;
+    height:500px;
 }
 .font-caption{
     text-align:center;
